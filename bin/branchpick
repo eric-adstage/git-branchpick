@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+echo
 echo "Choose a branch to switch to from the choices below:"
 echo
 
