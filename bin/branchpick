@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Select one option using up/down keys and enter to confirm:"
+echo "Choose a branch to switch to from the choices below:"
 echo
 
 #!/usr/bin/env bash
