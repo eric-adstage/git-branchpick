@@ -1,10 +1,12 @@
 #!/usr/bin/env bash
 
+# Borrows heavily from the top answer here:
+# https://unix.stackexchange.com/questions/146570/arrow-key-enter-menu
+# by Alexander Klimetschek
+
 echo
 echo "Choose a branch to switch to from the choices below:"
 echo
-
-#!/usr/bin/env bash
 
 # Renders a text based list of options that can be selected by the
 # user using up, down and enter keys and returns the chosen option.
